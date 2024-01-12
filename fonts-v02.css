@@ -144,14 +144,14 @@ https://github.com/oblador/react-native-vector-icons/tree/v10.0.3/Fonts
   font-family: ChalkboardRegular;
   font-style: normal;
   font-weight: 400;
-  src: url("./fonts/ChalkboardRegular.ttf"); /* IE9 Compat Modes */
-  src: url("./fonts/ChalkboardRegular.ttf") format("truetype"); /* Legacy iOS */
+  src: url("./misc-fonts/ChalkboardRegular.ttf"); /* IE9 Compat Modes */
+  src: url("./misc-fonts/ChalkboardRegular.ttf") format("truetype"); /* Legacy iOS */
 }
 
 @font-face {
   font-family: chalkboardBold;
   font-style: normal;
   font-weight: 400;
-  src: url("./fonts/chalkboardBold.ttf"); /* IE9 Compat Modes */
-  src: url("./fonts/chalkboardBold.ttf") format("truetype"); /* Legacy iOS */
+  src: url("./misc-fonts/chalkboardBold.ttf"); /* IE9 Compat Modes */
+  src: url("./misc-fonts/chalkboardBold.ttf") format("truetype"); /* Legacy iOS */
 }
