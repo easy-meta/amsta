@@ -1,0 +1,71 @@
+/**
+ * Rip from https://unicode.org/emoji/charts/full-emoji-list.html
+ * usage: <em class="emoji emoji-grinning-face s18"></em>
+ */
+
+.emoji {
+  text-indent: 0 !important;
+}
+
+.emoji,
+.emoji::before {
+  content: "\00001";
+  display: inline-block;
+  text-rendering: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  line-height: 1;
+
+  width: 1rem;
+  height: 1rem;
+  font-size: 1rem;
+}
+
+.emoji.s05,
+.emoji.s05::before {
+  width: 0.5rem;
+  height: 0.5rem;
+  font-size: 0.5rem;
+}
+
+.emoji.s08,
+.emoji.s08::before {
+  width: 0.8rem;
+  height: 0.8rem;
+  font-size: 0.8rem;
+}
+
+.emoji.s12,
+.emoji.s12::before {
+  width: 1.2rem;
+  height: 1.2rem;
+  font-size: 1.2rem;
+}
+
+.emoji.s15,
+.emoji.s15::before {
+  width: 1.5rem;
+  height: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.emoji.s18,
+.emoji.s18::before {
+  width: 1.8rem;
+  height: 1.8rem;
+  font-size: 1.8rem;
+}
+
+.emoji.s20,
+.emoji.s20::before {
+  width: 2rem;
+  height: 2rem;
+  font-size: 2rem;
+}
+
+.emoji.s30,
+.emoji.s30::before {
+  width: 3rem;
+  height: 3rem;
+  font-size: 3rem;
+}

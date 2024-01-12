@@ -1,0 +1,39 @@
+.emoji.emoji-symbols-transport_sign-atm_sign::before {
+  content: "🏧";
+}
+.emoji.emoji-symbols-transport_sign-litter_in_bin_sign::before {
+  content: "🚮";
+}
+.emoji.emoji-symbols-transport_sign-potable_water::before {
+  content: "🚰";
+}
+.emoji.emoji-symbols-transport_sign-wheelchair_symbol::before {
+  content: "♿";
+}
+.emoji.emoji-symbols-transport_sign-men_s_room::before {
+  content: "🚹";
+}
+.emoji.emoji-symbols-transport_sign-women_s_room::before {
+  content: "🚺";
+}
+.emoji.emoji-symbols-transport_sign-restroom::before {
+  content: "🚻";
+}
+.emoji.emoji-symbols-transport_sign-baby_symbol::before {
+  content: "🚼";
+}
+.emoji.emoji-symbols-transport_sign-water_closet::before {
+  content: "🚾";
+}
+.emoji.emoji-symbols-transport_sign-passport_control::before {
+  content: "🛂";
+}
+.emoji.emoji-symbols-transport_sign-customs::before {
+  content: "🛃";
+}
+.emoji.emoji-symbols-transport_sign-baggage_claim::before {
+  content: "🛄";
+}
+.emoji.emoji-symbols-transport_sign-left_luggage::before {
+  content: "🛅";
+}

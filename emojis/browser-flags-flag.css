@@ -1,0 +1,21 @@
+.emoji.emoji-flags-flag-chequered_flag::before {
+  content: "🏁";
+}
+.emoji.emoji-flags-flag-triangular_flag::before {
+  content: "🚩";
+}
+.emoji.emoji-flags-flag-crossed_flags::before {
+  content: "🎌";
+}
+.emoji.emoji-flags-flag-black_flag::before {
+  content: "🏴";
+}
+.emoji.emoji-flags-flag-white_flag::before {
+  content: "🏳";
+}
+.emoji.emoji-flags-flag-rainbow_flag::before {
+  content: "🏳️‍🌈";
+}
+.emoji.emoji-flags-flag-pirate_flag::before {
+  content: "🏴‍☠️";
+}

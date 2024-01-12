@@ -1,0 +1,18 @@
+.emoji.emoji-people_and_body-hand_fingers_closed-thumbs_up::before {
+  content: "\1F44D";
+}
+.emoji.emoji-people_and_body-hand_fingers_closed-thumbs_down::before {
+  content: "\1F44E";
+}
+.emoji.emoji-people_and_body-hand_fingers_closed-raised_fist::before {
+  content: "\270A";
+}
+.emoji.emoji-people_and_body-hand_fingers_closed-oncoming_fist::before {
+  content: "\1F44A";
+}
+.emoji.emoji-people_and_body-hand_fingers_closed-left_facing_fist::before {
+  content: "\1F91B";
+}
+.emoji.emoji-people_and_body-hand_fingers_closed-right_facing_fist::before {
+  content: "\1F91C";
+}

@@ -1,0 +1,39 @@
+.emoji.emoji-objects-mail-envelope::before {
+  content: "✉";
+}
+.emoji.emoji-objects-mail-e_mail::before {
+  content: "📧";
+}
+.emoji.emoji-objects-mail-incoming_envelope::before {
+  content: "📨";
+}
+.emoji.emoji-objects-mail-envelope_with_arrow::before {
+  content: "📩";
+}
+.emoji.emoji-objects-mail-outbox_tray::before {
+  content: "📤";
+}
+.emoji.emoji-objects-mail-inbox_tray::before {
+  content: "📥";
+}
+.emoji.emoji-objects-mail-package::before {
+  content: "📦";
+}
+.emoji.emoji-objects-mail-closed_mailbox_with_raised_flag::before {
+  content: "📫";
+}
+.emoji.emoji-objects-mail-closed_mailbox_with_lowered_flag::before {
+  content: "📪";
+}
+.emoji.emoji-objects-mail-open_mailbox_with_raised_flag::before {
+  content: "📬";
+}
+.emoji.emoji-objects-mail-open_mailbox_with_lowered_flag::before {
+  content: "📭";
+}
+.emoji.emoji-objects-mail-postbox::before {
+  content: "📮";
+}
+.emoji.emoji-objects-mail-ballot_box_with_ballot::before {
+  content: "🗳";
+}

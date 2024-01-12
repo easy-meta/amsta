@@ -1,0 +1,15 @@
+.emoji.emoji-smileys_and_emotion-face_sleepy-relieved_face::before {
+  content: "😌";
+}
+.emoji.emoji-smileys_and_emotion-face_sleepy-pensive_face::before {
+  content: "😔";
+}
+.emoji.emoji-smileys_and_emotion-face_sleepy-sleepy_face::before {
+  content: "😪";
+}
+.emoji.emoji-smileys_and_emotion-face_sleepy-drooling_face::before {
+  content: "🤤";
+}
+.emoji.emoji-smileys_and_emotion-face_sleepy-sleeping_face::before {
+  content: "😴";
+}

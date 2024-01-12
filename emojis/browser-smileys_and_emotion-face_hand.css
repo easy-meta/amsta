@@ -1,0 +1,12 @@
+.emoji.emoji-smileys_and_emotion-face_hand-hugging_face::before {
+  content: "🤗";
+}
+.emoji.emoji-smileys_and_emotion-face_hand-face_with_hand_over_mouth::before {
+  content: "🤭";
+}
+.emoji.emoji-smileys_and_emotion-face_hand-shushing_face::before {
+  content: "🤫";
+}
+.emoji.emoji-smileys_and_emotion-face_hand-thinking_face::before {
+  content: "🤔";
+}

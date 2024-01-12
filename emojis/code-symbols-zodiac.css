@@ -1,0 +1,39 @@
+.emoji.emoji-symbols-zodiac-aries::before {
+  content: "\2648";
+}
+.emoji.emoji-symbols-zodiac-taurus::before {
+  content: "\2649";
+}
+.emoji.emoji-symbols-zodiac-gemini::before {
+  content: "\264A";
+}
+.emoji.emoji-symbols-zodiac-cancer::before {
+  content: "\264B";
+}
+.emoji.emoji-symbols-zodiac-leo::before {
+  content: "\264C";
+}
+.emoji.emoji-symbols-zodiac-virgo::before {
+  content: "\264D";
+}
+.emoji.emoji-symbols-zodiac-libra::before {
+  content: "\264E";
+}
+.emoji.emoji-symbols-zodiac-scorpio::before {
+  content: "\264F";
+}
+.emoji.emoji-symbols-zodiac-sagittarius::before {
+  content: "\2650";
+}
+.emoji.emoji-symbols-zodiac-capricorn::before {
+  content: "\2651";
+}
+.emoji.emoji-symbols-zodiac-aquarius::before {
+  content: "\2652";
+}
+.emoji.emoji-symbols-zodiac-pisces::before {
+  content: "\2653";
+}
+.emoji.emoji-symbols-zodiac-ophiuchus::before {
+  content: "\26CE";
+}

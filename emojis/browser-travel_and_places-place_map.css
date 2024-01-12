@@ -1,0 +1,21 @@
+.emoji.emoji-travel_and_places-place_map-globe_showing_europe_africa::before {
+  content: "🌍";
+}
+.emoji.emoji-travel_and_places-place_map-globe_showing_americas::before {
+  content: "🌎";
+}
+.emoji.emoji-travel_and_places-place_map-globe_showing_asia_australia::before {
+  content: "🌏";
+}
+.emoji.emoji-travel_and_places-place_map-globe_with_meridians::before {
+  content: "🌐";
+}
+.emoji.emoji-travel_and_places-place_map-world_map::before {
+  content: "🗺";
+}
+.emoji.emoji-travel_and_places-place_map-map_of_japan::before {
+  content: "🗾";
+}
+.emoji.emoji-travel_and_places-place_map-compass::before {
+  content: "🧭";
+}

@@ -1,0 +1,33 @@
+.emoji.emoji-smileys_and_emotion-face_unwell-face_with_medical_mask::before {
+  content: "\1F637";
+}
+.emoji.emoji-smileys_and_emotion-face_unwell-face_with_thermometer::before {
+  content: "\1F912";
+}
+.emoji.emoji-smileys_and_emotion-face_unwell-face_with_head_bandage::before {
+  content: "\1F915";
+}
+.emoji.emoji-smileys_and_emotion-face_unwell-nauseated_face::before {
+  content: "\1F922";
+}
+.emoji.emoji-smileys_and_emotion-face_unwell-face_vomiting::before {
+  content: "\1F92E";
+}
+.emoji.emoji-smileys_and_emotion-face_unwell-sneezing_face::before {
+  content: "\1F927";
+}
+.emoji.emoji-smileys_and_emotion-face_unwell-hot_face::before {
+  content: "\1F975";
+}
+.emoji.emoji-smileys_and_emotion-face_unwell-cold_face::before {
+  content: "\1F976";
+}
+.emoji.emoji-smileys_and_emotion-face_unwell-woozy_face::before {
+  content: "\1F974";
+}
+.emoji.emoji-smileys_and_emotion-face_unwell-dizzy_face::before {
+  content: "\1F635";
+}
+.emoji.emoji-smileys_and_emotion-face_unwell-exploding_head::before {
+  content: "\1F92F";
+}

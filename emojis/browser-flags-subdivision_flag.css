@@ -1,0 +1,9 @@
+.emoji.emoji-flags-subdivision_flag-england::before {
+  content: "🏴󠁧󠁢󠁥󠁮󠁧󠁿";
+}
+.emoji.emoji-flags-subdivision_flag-scotland::before {
+  content: "🏴󠁧󠁢󠁳󠁣󠁴󠁿";
+}
+.emoji.emoji-flags-subdivision_flag-wales::before {
+  content: "🏴󠁧󠁢󠁷󠁬󠁳󠁿";
+}

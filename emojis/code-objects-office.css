@@ -1,0 +1,69 @@
+.emoji.emoji-objects-office-briefcase::before {
+  content: "\1F4BC";
+}
+.emoji.emoji-objects-office-file_folder::before {
+  content: "\1F4C1";
+}
+.emoji.emoji-objects-office-open_file_folder::before {
+  content: "\1F4C2";
+}
+.emoji.emoji-objects-office-card_index_dividers::before {
+  content: "\1F5C2";
+}
+.emoji.emoji-objects-office-calendar::before {
+  content: "\1F4C5";
+}
+.emoji.emoji-objects-office-tear_off_calendar::before {
+  content: "\1F4C6";
+}
+.emoji.emoji-objects-office-spiral_notepad::before {
+  content: "\1F5D2";
+}
+.emoji.emoji-objects-office-spiral_calendar::before {
+  content: "\1F5D3";
+}
+.emoji.emoji-objects-office-card_index::before {
+  content: "\1F4C7";
+}
+.emoji.emoji-objects-office-chart_increasing::before {
+  content: "\1F4C8";
+}
+.emoji.emoji-objects-office-chart_decreasing::before {
+  content: "\1F4C9";
+}
+.emoji.emoji-objects-office-bar_chart::before {
+  content: "\1F4CA";
+}
+.emoji.emoji-objects-office-clipboard::before {
+  content: "\1F4CB";
+}
+.emoji.emoji-objects-office-pushpin::before {
+  content: "\1F4CC";
+}
+.emoji.emoji-objects-office-round_pushpin::before {
+  content: "\1F4CD";
+}
+.emoji.emoji-objects-office-paperclip::before {
+  content: "\1F4CE";
+}
+.emoji.emoji-objects-office-linked_paperclips::before {
+  content: "\1F587";
+}
+.emoji.emoji-objects-office-straight_ruler::before {
+  content: "\1F4CF";
+}
+.emoji.emoji-objects-office-triangular_ruler::before {
+  content: "\1F4D0";
+}
+.emoji.emoji-objects-office-scissors::before {
+  content: "\2702";
+}
+.emoji.emoji-objects-office-card_file_box::before {
+  content: "\1F5C3";
+}
+.emoji.emoji-objects-office-file_cabinet::before {
+  content: "\1F5C4";
+}
+.emoji.emoji-objects-office-wastebasket::before {
+  content: "\1F5D1";
+}

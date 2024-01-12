@@ -1,0 +1,875 @@
+/**
+ * Rip from https://unicode.org/emoji/charts/full-emoji-list.html
+ * usage: <em class="emoji emoji-grinning-face s18"></em>
+ */
+.eflag {
+  text-indent: 0 !important;
+}
+.eflag,
+.eflag::before {
+  content: "\00001";
+  display: inline-block;
+  text-rendering: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  line-height: 1;
+
+  width: 1rem;
+  height: 1rem;
+  font-size: 1rem;
+}
+.eflag.s050,
+.eflag.s050::before {
+  width: 0.5rem;
+  height: 0.5rem;
+  font-size: 0.5rem;
+}
+
+.eflag.s075,
+.eflag.s075::before {
+  width: 0.75rem;
+  height: 0.75rem;
+  font-size: 0.75rem;
+}
+
+.eflag.s125,
+.eflag.s125::before {
+  width: 1.25rem;
+  height: 1.25rem;
+  font-size: 1.25rem;
+}
+
+.eflag.s150,
+.eflag.s150::before {
+  width: 1.5rem;
+  height: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.eflag.s175,
+.eflag.s175::before {
+  width: 1.75rem;
+  height: 1.75rem;
+  font-size: 1.75rem;
+}
+
+.eflag.s200,
+.eflag.s200::before {
+  width: 2rem;
+  height: 2rem;
+  font-size: 2rem;
+}
+
+.eflag.s300,
+.eflag.s300::before {
+  width: 3rem;
+  height: 3rem;
+  font-size: 3rem;
+}
+
+.eflag.flag-ascension_island::before {
+  content: "🇦🇨";
+}
+.eflag.flag-andorra::before {
+  content: "🇦🇩";
+}
+.eflag.flag-united_arab_emirates::before {
+  content: "🇦🇪";
+}
+.eflag.flag-afghanistan::before {
+  content: "🇦🇫";
+}
+.eflag.flag-antigua_and_barbuda::before {
+  content: "🇦🇬";
+}
+.eflag.flag-anguilla::before {
+  content: "🇦🇮";
+}
+.eflag.flag-albania::before {
+  content: "🇦🇱";
+}
+.eflag.flag-armenia::before {
+  content: "🇦🇲";
+}
+.eflag.flag-angola::before {
+  content: "🇦🇴";
+}
+.eflag.flag-antarctica::before {
+  content: "🇦🇶";
+}
+.eflag.flag-argentina::before {
+  content: "🇦🇷";
+}
+.eflag.flag-american_samoa::before {
+  content: "🇦🇸";
+}
+.eflag.flag-austria::before {
+  content: "🇦🇹";
+}
+.eflag.flag-australia::before {
+  content: "🇦🇺";
+}
+.eflag.flag-aruba::before {
+  content: "🇦🇼";
+}
+.eflag.flag-_land_islands::before {
+  content: "🇦🇽";
+}
+.eflag.flag-azerbaijan::before {
+  content: "🇦🇿";
+}
+.eflag.flag-bosnia_and_herzegovina::before {
+  content: "🇧🇦";
+}
+.eflag.flag-barbados::before {
+  content: "🇧🇧";
+}
+.eflag.flag-bangladesh::before {
+  content: "🇧🇩";
+}
+.eflag.flag-belgium::before {
+  content: "🇧🇪";
+}
+.eflag.flag-burkina_faso::before {
+  content: "🇧🇫";
+}
+.eflag.flag-bulgaria::before {
+  content: "🇧🇬";
+}
+.eflag.flag-bahrain::before {
+  content: "🇧🇭";
+}
+.eflag.flag-burundi::before {
+  content: "🇧🇮";
+}
+.eflag.flag-benin::before {
+  content: "🇧🇯";
+}
+.eflag.flag-st_barth_lemy::before {
+  content: "🇧🇱";
+}
+.eflag.flag-bermuda::before {
+  content: "🇧🇲";
+}
+.eflag.flag-brunei::before {
+  content: "🇧🇳";
+}
+.eflag.flag-bolivia::before {
+  content: "🇧🇴";
+}
+.eflag.flag-caribbean_netherlands::before {
+  content: "🇧🇶";
+}
+.eflag.flag-brazil::before {
+  content: "🇧🇷";
+}
+.eflag.flag-bahamas::before {
+  content: "🇧🇸";
+}
+.eflag.flag-bhutan::before {
+  content: "🇧🇹";
+}
+.eflag.flag-bouvet_island::before {
+  content: "🇧🇻";
+}
+.eflag.flag-botswana::before {
+  content: "🇧🇼";
+}
+.eflag.flag-belarus::before {
+  content: "🇧🇾";
+}
+.eflag.flag-belize::before {
+  content: "🇧🇿";
+}
+.eflag.flag-canada::before {
+  content: "🇨🇦";
+}
+.eflag.flag-cocos_keeling_islands::before {
+  content: "🇨🇨";
+}
+.eflag.flag-congo_kinshasa::before {
+  content: "🇨🇩";
+}
+.eflag.flag-central_african_republic::before {
+  content: "🇨🇫";
+}
+.eflag.flag-congo_brazzaville::before {
+  content: "🇨🇬";
+}
+.eflag.flag-switzerland::before {
+  content: "🇨🇭";
+}
+.eflag.flag-c_te_d_ivoire::before {
+  content: "🇨🇮";
+}
+.eflag.flag-cook_islands::before {
+  content: "🇨🇰";
+}
+.eflag.flag-chile::before {
+  content: "🇨🇱";
+}
+.eflag.flag-cameroon::before {
+  content: "🇨🇲";
+}
+.eflag.flag-china::before {
+  content: "🇨🇳";
+}
+.eflag.flag-colombia::before {
+  content: "🇨🇴";
+}
+.eflag.flag-clipperton_island::before {
+  content: "🇨🇵";
+}
+.eflag.flag-costa_rica::before {
+  content: "🇨🇷";
+}
+.eflag.flag-cuba::before {
+  content: "🇨🇺";
+}
+.eflag.flag-cape_verde::before {
+  content: "🇨🇻";
+}
+.eflag.flag-cura_ao::before {
+  content: "🇨🇼";
+}
+.eflag.flag-christmas_island::before {
+  content: "🇨🇽";
+}
+.eflag.flag-cyprus::before {
+  content: "🇨🇾";
+}
+.eflag.flag-czechia::before {
+  content: "🇨🇿";
+}
+.eflag.flag-germany::before {
+  content: "🇩🇪";
+}
+.eflag.flag-diego_garcia::before {
+  content: "🇩🇬";
+}
+.eflag.flag-djibouti::before {
+  content: "🇩🇯";
+}
+.eflag.flag-denmark::before {
+  content: "🇩🇰";
+}
+.eflag.flag-dominica::before {
+  content: "🇩🇲";
+}
+.eflag.flag-dominican_republic::before {
+  content: "🇩🇴";
+}
+.eflag.flag-algeria::before {
+  content: "🇩🇿";
+}
+.eflag.flag-ceuta_and_melilla::before {
+  content: "🇪🇦";
+}
+.eflag.flag-ecuador::before {
+  content: "🇪🇨";
+}
+.eflag.flag-estonia::before {
+  content: "🇪🇪";
+}
+.eflag.flag-egypt::before {
+  content: "🇪🇬";
+}
+.eflag.flag-western_sahara::before {
+  content: "🇪🇭";
+}
+.eflag.flag-eritrea::before {
+  content: "🇪🇷";
+}
+.eflag.flag-spain::before {
+  content: "🇪🇸";
+}
+.eflag.flag-ethiopia::before {
+  content: "🇪🇹";
+}
+.eflag.flag-european_union::before {
+  content: "🇪🇺";
+}
+.eflag.flag-finland::before {
+  content: "🇫🇮";
+}
+.eflag.flag-fiji::before {
+  content: "🇫🇯";
+}
+.eflag.flag-falkland_islands::before {
+  content: "🇫🇰";
+}
+.eflag.flag-micronesia::before {
+  content: "🇫🇲";
+}
+.eflag.flag-faroe_islands::before {
+  content: "🇫🇴";
+}
+.eflag.flag-france::before {
+  content: "🇫🇷";
+}
+.eflag.flag-gabon::before {
+  content: "🇬🇦";
+}
+.eflag.flag-united_kingdom::before {
+  content: "🇬🇧";
+}
+.eflag.flag-grenada::before {
+  content: "🇬🇩";
+}
+.eflag.flag-georgia::before {
+  content: "🇬🇪";
+}
+.eflag.flag-french_guiana::before {
+  content: "🇬🇫";
+}
+.eflag.flag-guernsey::before {
+  content: "🇬🇬";
+}
+.eflag.flag-ghana::before {
+  content: "🇬🇭";
+}
+.eflag.flag-gibraltar::before {
+  content: "🇬🇮";
+}
+.eflag.flag-greenland::before {
+  content: "🇬🇱";
+}
+.eflag.flag-gambia::before {
+  content: "🇬🇲";
+}
+.eflag.flag-guinea::before {
+  content: "🇬🇳";
+}
+.eflag.flag-guadeloupe::before {
+  content: "🇬🇵";
+}
+.eflag.flag-equatorial_guinea::before {
+  content: "🇬🇶";
+}
+.eflag.flag-greece::before {
+  content: "🇬🇷";
+}
+.eflag.flag-south_georgia_and_south_sandwich_islands::before {
+  content: "🇬🇸";
+}
+.eflag.flag-guatemala::before {
+  content: "🇬🇹";
+}
+.eflag.flag-guam::before {
+  content: "🇬🇺";
+}
+.eflag.flag-guinea_bissau::before {
+  content: "🇬🇼";
+}
+.eflag.flag-guyana::before {
+  content: "🇬🇾";
+}
+.eflag.flag-hong_kong_sar_china::before {
+  content: "🇭🇰";
+}
+.eflag.flag-heard_and_mcdonald_islands::before {
+  content: "🇭🇲";
+}
+.eflag.flag-honduras::before {
+  content: "🇭🇳";
+}
+.eflag.flag-croatia::before {
+  content: "🇭🇷";
+}
+.eflag.flag-haiti::before {
+  content: "🇭🇹";
+}
+.eflag.flag-hungary::before {
+  content: "🇭🇺";
+}
+.eflag.flag-canary_islands::before {
+  content: "🇮🇨";
+}
+.eflag.flag-indonesia::before {
+  content: "🇮🇩";
+}
+.eflag.flag-ireland::before {
+  content: "🇮🇪";
+}
+.eflag.flag-israel::before {
+  content: "🇮🇱";
+}
+.eflag.flag-isle_of_man::before {
+  content: "🇮🇲";
+}
+.eflag.flag-india::before {
+  content: "🇮🇳";
+}
+.eflag.flag-british_indian_ocean_territory::before {
+  content: "🇮🇴";
+}
+.eflag.flag-iraq::before {
+  content: "🇮🇶";
+}
+.eflag.flag-iran::before {
+  content: "🇮🇷";
+}
+.eflag.flag-iceland::before {
+  content: "🇮🇸";
+}
+.eflag.flag-italy::before {
+  content: "🇮🇹";
+}
+.eflag.flag-jersey::before {
+  content: "🇯🇪";
+}
+.eflag.flag-jamaica::before {
+  content: "🇯🇲";
+}
+.eflag.flag-jordan::before {
+  content: "🇯🇴";
+}
+.eflag.flag-japan::before {
+  content: "🇯🇵";
+}
+.eflag.flag-kenya::before {
+  content: "🇰🇪";
+}
+.eflag.flag-kyrgyzstan::before {
+  content: "🇰🇬";
+}
+.eflag.flag-cambodia::before {
+  content: "🇰🇭";
+}
+.eflag.flag-kiribati::before {
+  content: "🇰🇮";
+}
+.eflag.flag-comoros::before {
+  content: "🇰🇲";
+}
+.eflag.flag-st_kitts_and_nevis::before {
+  content: "🇰🇳";
+}
+.eflag.flag-north_korea::before {
+  content: "🇰🇵";
+}
+.eflag.flag-south_korea::before {
+  content: "🇰🇷";
+}
+.eflag.flag-kuwait::before {
+  content: "🇰🇼";
+}
+.eflag.flag-cayman_islands::before {
+  content: "🇰🇾";
+}
+.eflag.flag-kazakhstan::before {
+  content: "🇰🇿";
+}
+.eflag.flag-laos::before {
+  content: "🇱🇦";
+}
+.eflag.flag-lebanon::before {
+  content: "🇱🇧";
+}
+.eflag.flag-st_lucia::before {
+  content: "🇱🇨";
+}
+.eflag.flag-liechtenstein::before {
+  content: "🇱🇮";
+}
+.eflag.flag-sri_lanka::before {
+  content: "🇱🇰";
+}
+.eflag.flag-liberia::before {
+  content: "🇱🇷";
+}
+.eflag.flag-lesotho::before {
+  content: "🇱🇸";
+}
+.eflag.flag-lithuania::before {
+  content: "🇱🇹";
+}
+.eflag.flag-luxembourg::before {
+  content: "🇱🇺";
+}
+.eflag.flag-latvia::before {
+  content: "🇱🇻";
+}
+.eflag.flag-libya::before {
+  content: "🇱🇾";
+}
+.eflag.flag-morocco::before {
+  content: "🇲🇦";
+}
+.eflag.flag-monaco::before {
+  content: "🇲🇨";
+}
+.eflag.flag-moldova::before {
+  content: "🇲🇩";
+}
+.eflag.flag-montenegro::before {
+  content: "🇲🇪";
+}
+.eflag.flag-st_martin::before {
+  content: "🇲🇫";
+}
+.eflag.flag-madagascar::before {
+  content: "🇲🇬";
+}
+.eflag.flag-marshall_islands::before {
+  content: "🇲🇭";
+}
+.eflag.flag-north_macedonia::before {
+  content: "🇲🇰";
+}
+.eflag.flag-mali::before {
+  content: "🇲🇱";
+}
+.eflag.flag-myanmar_burma_::before {
+  content: "🇲🇲";
+}
+.eflag.flag-mongolia::before {
+  content: "🇲🇳";
+}
+.eflag.flag-macao_sar_china::before {
+  content: "🇲🇴";
+}
+.eflag.flag-northern_mariana_islands::before {
+  content: "🇲🇵";
+}
+.eflag.flag-martinique::before {
+  content: "🇲🇶";
+}
+.eflag.flag-mauritania::before {
+  content: "🇲🇷";
+}
+.eflag.flag-montserrat::before {
+  content: "🇲🇸";
+}
+.eflag.flag-malta::before {
+  content: "🇲🇹";
+}
+.eflag.flag-mauritius::before {
+  content: "🇲🇺";
+}
+.eflag.flag-maldives::before {
+  content: "🇲🇻";
+}
+.eflag.flag-malawi::before {
+  content: "🇲🇼";
+}
+.eflag.flag-mexico::before {
+  content: "🇲🇽";
+}
+.eflag.flag-malaysia::before {
+  content: "🇲🇾";
+}
+.eflag.flag-mozambique::before {
+  content: "🇲🇿";
+}
+.eflag.flag-namibia::before {
+  content: "🇳🇦";
+}
+.eflag.flag-new_caledonia::before {
+  content: "🇳🇨";
+}
+.eflag.flag-niger::before {
+  content: "🇳🇪";
+}
+.eflag.flag-norfolk_island::before {
+  content: "🇳🇫";
+}
+.eflag.flag-nigeria::before {
+  content: "🇳🇬";
+}
+.eflag.flag-nicaragua::before {
+  content: "🇳🇮";
+}
+.eflag.flag-netherlands::before {
+  content: "🇳🇱";
+}
+.eflag.flag-norway::before {
+  content: "🇳🇴";
+}
+.eflag.flag-nepal::before {
+  content: "🇳🇵";
+}
+.eflag.flag-nauru::before {
+  content: "🇳🇷";
+}
+.eflag.flag-niue::before {
+  content: "🇳🇺";
+}
+.eflag.flag-new_zealand::before {
+  content: "🇳🇿";
+}
+.eflag.flag-oman::before {
+  content: "🇴🇲";
+}
+.eflag.flag-panama::before {
+  content: "🇵🇦";
+}
+.eflag.flag-peru::before {
+  content: "🇵🇪";
+}
+.eflag.flag-french_polynesia::before {
+  content: "🇵🇫";
+}
+.eflag.flag-papua_new_guinea::before {
+  content: "🇵🇬";
+}
+.eflag.flag-philippines::before {
+  content: "🇵🇭";
+}
+.eflag.flag-pakistan::before {
+  content: "🇵🇰";
+}
+.eflag.flag-poland::before {
+  content: "🇵🇱";
+}
+.eflag.flag-st_pierre_and_miquelon::before {
+  content: "🇵🇲";
+}
+.eflag.flag-pitcairn_islands::before {
+  content: "🇵🇳";
+}
+.eflag.flag-puerto_rico::before {
+  content: "🇵🇷";
+}
+.eflag.flag-palestinian_territories::before {
+  content: "🇵🇸";
+}
+.eflag.flag-portugal::before {
+  content: "🇵🇹";
+}
+.eflag.flag-palau::before {
+  content: "🇵🇼";
+}
+.eflag.flag-paraguay::before {
+  content: "🇵🇾";
+}
+.eflag.flag-qatar::before {
+  content: "🇶🇦";
+}
+.eflag.flag-r_union::before {
+  content: "🇷🇪";
+}
+.eflag.flag-romania::before {
+  content: "🇷🇴";
+}
+.eflag.flag-serbia::before {
+  content: "🇷🇸";
+}
+.eflag.flag-russia::before {
+  content: "🇷🇺";
+}
+.eflag.flag-rwanda::before {
+  content: "🇷🇼";
+}
+.eflag.flag-saudi_arabia::before {
+  content: "🇸🇦";
+}
+.eflag.flag-solomon_islands::before {
+  content: "🇸🇧";
+}
+.eflag.flag-seychelles::before {
+  content: "🇸🇨";
+}
+.eflag.flag-sudan::before {
+  content: "🇸🇩";
+}
+.eflag.flag-sweden::before {
+  content: "🇸🇪";
+}
+.eflag.flag-singapore::before {
+  content: "🇸🇬";
+}
+.eflag.flag-st_helena::before {
+  content: "🇸🇭";
+}
+.eflag.flag-slovenia::before {
+  content: "🇸🇮";
+}
+.eflag.flag-svalbard_and_jan_mayen::before {
+  content: "🇸🇯";
+}
+.eflag.flag-slovakia::before {
+  content: "🇸🇰";
+}
+.eflag.flag-sierra_leone::before {
+  content: "🇸🇱";
+}
+.eflag.flag-san_marino::before {
+  content: "🇸🇲";
+}
+.eflag.flag-senegal::before {
+  content: "🇸🇳";
+}
+.eflag.flag-somalia::before {
+  content: "🇸🇴";
+}
+.eflag.flag-suriname::before {
+  content: "🇸🇷";
+}
+.eflag.flag-south_sudan::before {
+  content: "🇸🇸";
+}
+.eflag.flag-s_o_tom_and_pr_ncipe::before {
+  content: "🇸🇹";
+}
+.eflag.flag-el_salvador::before {
+  content: "🇸🇻";
+}
+.eflag.flag-sint_maarten::before {
+  content: "🇸🇽";
+}
+.eflag.flag-syria::before {
+  content: "🇸🇾";
+}
+.eflag.flag-eswatini::before {
+  content: "🇸🇿";
+}
+.eflag.flag-tristan_da_cunha::before {
+  content: "🇹🇦";
+}
+.eflag.flag-turks_and_caicos_islands::before {
+  content: "🇹🇨";
+}
+.eflag.flag-chad::before {
+  content: "🇹🇩";
+}
+.eflag.flag-french_southern_territories::before {
+  content: "🇹🇫";
+}
+.eflag.flag-togo::before {
+  content: "🇹🇬";
+}
+.eflag.flag-thailand::before {
+  content: "🇹🇭";
+}
+.eflag.flag-tajikistan::before {
+  content: "🇹🇯";
+}
+.eflag.flag-tokelau::before {
+  content: "🇹🇰";
+}
+.eflag.flag-timor_leste::before {
+  content: "🇹🇱";
+}
+.eflag.flag-turkmenistan::before {
+  content: "🇹🇲";
+}
+.eflag.flag-tunisia::before {
+  content: "🇹🇳";
+}
+.eflag.flag-tonga::before {
+  content: "🇹🇴";
+}
+.eflag.flag-turkey::before {
+  content: "🇹🇷";
+}
+.eflag.flag-trinidad_and_tobago::before {
+  content: "🇹🇹";
+}
+.eflag.flag-tuvalu::before {
+  content: "🇹🇻";
+}
+.eflag.flag-taiwan::before {
+  content: "🇹🇼";
+}
+.eflag.flag-tanzania::before {
+  content: "🇹🇿";
+}
+.eflag.flag-ukraine::before {
+  content: "🇺🇦";
+}
+.eflag.flag-uganda::before {
+  content: "🇺🇬";
+}
+.eflag.flag-u_s_outlying_islands::before {
+  content: "🇺🇲";
+}
+.eflag.flag-united_nations::before {
+  content: "🇺🇳";
+}
+.eflag.flag-united_states::before {
+  content: "🇺🇸";
+}
+.eflag.flag-uruguay::before {
+  content: "🇺🇾";
+}
+.eflag.flag-uzbekistan::before {
+  content: "🇺🇿";
+}
+.eflag.flag-vatican_city::before {
+  content: "🇻🇦";
+}
+.eflag.flag-st_vincent_and_grenadines::before {
+  content: "🇻🇨";
+}
+.eflag.flag-venezuela::before {
+  content: "🇻🇪";
+}
+.eflag.flag-british_virgin_islands::before {
+  content: "🇻🇬";
+}
+.eflag.flag-u_s_virgin_islands::before {
+  content: "🇻🇮";
+}
+.eflag.flag-vietnam::before {
+  content: "🇻🇳";
+}
+.eflag.flag-vanuatu::before {
+  content: "🇻🇺";
+}
+.eflag.flag-wallis_and_futuna::before {
+  content: "🇼🇫";
+}
+.eflag.flag-samoa::before {
+  content: "🇼🇸";
+}
+.eflag.flag-kosovo::before {
+  content: "🇽🇰";
+}
+.eflag.flag-yemen::before {
+  content: "🇾🇪";
+}
+.eflag.flag-mayotte::before {
+  content: "🇾🇹";
+}
+.eflag.flag-south_africa::before {
+  content: "🇿🇦";
+}
+.eflag.flag-zambia::before {
+  content: "🇿🇲";
+}
+.eflag.flag-zimbabwe::before {
+  content: "🇿🇼";
+}
+
+.eflag.flag-england::before {
+  content: "🏴󠁧󠁢󠁥󠁮󠁧󠁿";
+}
+.eflag.flag-scotland::before {
+  content: "🏴󠁧󠁢󠁳󠁣󠁴󠁿";
+}
+.eflag.flag-wales::before {
+  content: "🏴󠁧󠁢󠁷󠁬󠁳󠁿";
+}
+
+.eflag.flag-chequered::before {
+  content: "🏁";
+}
+.eflag.flag-triangular::before {
+  content: "🚩";
+}
+.eflag.flag-crossed::before {
+  content: "🎌";
+}
+.eflag.flag-black::before {
+  content: "🏴";
+}
+.eflag.flag-white::before {
+  content: "🏳";
+}
+.eflag.flag-rainbow::before {
+  content: "🏳️‍🌈";
+}
+.eflag.flag-pirate::before {
+  content: "🏴‍☠️";
+}

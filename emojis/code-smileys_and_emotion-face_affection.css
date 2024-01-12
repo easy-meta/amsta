@@ -1,0 +1,24 @@
+.emoji.emoji-smileys_and_emotion-face_affection-smiling_face_with_hearts::before {
+  content: "\1F970";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-smiling_face_with_heart_eyes::before {
+  content: "\1F60D";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-star_struck::before {
+  content: "\1F929";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-face_blowing_a_kiss::before {
+  content: "\1F618";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-kissing_face::before {
+  content: "\1F617";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-smiling_face::before {
+  content: "\263A";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-kissing_face_with_closed_eyes::before {
+  content: "\1F61A";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-kissing_face_with_smiling_eyes::before {
+  content: "\1F619";
+}

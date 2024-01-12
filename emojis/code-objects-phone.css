@@ -1,0 +1,18 @@
+.emoji.emoji-objects-phone-mobile_phone::before {
+  content: "\1F4F1";
+}
+.emoji.emoji-objects-phone-mobile_phone_with_arrow::before {
+  content: "\1F4F2";
+}
+.emoji.emoji-objects-phone-telephone::before {
+  content: "\260E";
+}
+.emoji.emoji-objects-phone-telephone_receiver::before {
+  content: "\1F4DE";
+}
+.emoji.emoji-objects-phone-pager::before {
+  content: "\1F4DF";
+}
+.emoji.emoji-objects-phone-fax_machine::before {
+  content: "\1F4E0";
+}

@@ -1,0 +1,18 @@
+.emoji.emoji-people_and_body-hand_fingers_closed-thumbs_up::before {
+  content: "👍";
+}
+.emoji.emoji-people_and_body-hand_fingers_closed-thumbs_down::before {
+  content: "👎";
+}
+.emoji.emoji-people_and_body-hand_fingers_closed-raised_fist::before {
+  content: "✊";
+}
+.emoji.emoji-people_and_body-hand_fingers_closed-oncoming_fist::before {
+  content: "👊";
+}
+.emoji.emoji-people_and_body-hand_fingers_closed-left_facing_fist::before {
+  content: "🤛";
+}
+.emoji.emoji-people_and_body-hand_fingers_closed-right_facing_fist::before {
+  content: "🤜";
+}

@@ -1,0 +1,18 @@
+.emoji.emoji-food_and_drink-dishware-chopsticks::before {
+  content: "🥢";
+}
+.emoji.emoji-food_and_drink-dishware-fork_and_knife_with_plate::before {
+  content: "🍽";
+}
+.emoji.emoji-food_and_drink-dishware-fork_and_knife::before {
+  content: "🍴";
+}
+.emoji.emoji-food_and_drink-dishware-spoon::before {
+  content: "🥄";
+}
+.emoji.emoji-food_and_drink-dishware-kitchen_knife::before {
+  content: "🔪";
+}
+.emoji.emoji-food_and_drink-dishware-amphora::before {
+  content: "🏺";
+}

@@ -1,0 +1,6 @@
+.emoji.emoji-symbols-currency-currency_exchange::before {
+  content: "\1F4B1";
+}
+.emoji.emoji-symbols-currency-heavy_dollar_sign::before {
+  content: "\1F4B2";
+}

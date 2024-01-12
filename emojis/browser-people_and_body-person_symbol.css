@@ -1,0 +1,12 @@
+.emoji.emoji-people_and_body-person_symbol-speaking_head::before {
+  content: "🗣";
+}
+.emoji.emoji-people_and_body-person_symbol-bust_in_silhouette::before {
+  content: "👤";
+}
+.emoji.emoji-people_and_body-person_symbol-busts_in_silhouette::before {
+  content: "👥";
+}
+.emoji.emoji-people_and_body-person_symbol-footprints::before {
+  content: "👣";
+}

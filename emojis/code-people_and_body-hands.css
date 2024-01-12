@@ -1,0 +1,18 @@
+.emoji.emoji-people_and_body-hands-clapping_hands::before {
+  content: "\1F44F";
+}
+.emoji.emoji-people_and_body-hands-raising_hands::before {
+  content: "\1F64C";
+}
+.emoji.emoji-people_and_body-hands-open_hands::before {
+  content: "\1F450";
+}
+.emoji.emoji-people_and_body-hands-palms_up_together::before {
+  content: "\1F932";
+}
+.emoji.emoji-people_and_body-hands-handshake::before {
+  content: "\1F91D";
+}
+.emoji.emoji-people_and_body-hands-folded_hands::before {
+  content: "\1F64F";
+}

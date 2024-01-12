@@ -1,0 +1,9 @@
+.emoji.emoji-smileys_and_emotion-monkey_face-see_no_evil_monkey::before {
+  content: "🙈";
+}
+.emoji.emoji-smileys_and_emotion-monkey_face-hear_no_evil_monkey::before {
+  content: "🙉";
+}
+.emoji.emoji-smileys_and_emotion-monkey_face-speak_no_evil_monkey::before {
+  content: "🙊";
+}

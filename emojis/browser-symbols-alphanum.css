@@ -1,0 +1,117 @@
+.emoji.emoji-symbols-alphanum-input_latin_uppercase::before {
+  content: "🔠";
+}
+.emoji.emoji-symbols-alphanum-input_latin_lowercase::before {
+  content: "🔡";
+}
+.emoji.emoji-symbols-alphanum-input_numbers::before {
+  content: "🔢";
+}
+.emoji.emoji-symbols-alphanum-input_symbols::before {
+  content: "🔣";
+}
+.emoji.emoji-symbols-alphanum-input_latin_letters::before {
+  content: "🔤";
+}
+.emoji.emoji-symbols-alphanum-a_button_blood_type_::before {
+  content: "🅰";
+}
+.emoji.emoji-symbols-alphanum-ab_button_blood_type_::before {
+  content: "🆎";
+}
+.emoji.emoji-symbols-alphanum-b_button_blood_type_::before {
+  content: "🅱";
+}
+.emoji.emoji-symbols-alphanum-cl_button::before {
+  content: "🆑";
+}
+.emoji.emoji-symbols-alphanum-cool_button::before {
+  content: "🆒";
+}
+.emoji.emoji-symbols-alphanum-free_button::before {
+  content: "🆓";
+}
+.emoji.emoji-symbols-alphanum-information::before {
+  content: "ℹ";
+}
+.emoji.emoji-symbols-alphanum-id_button::before {
+  content: "🆔";
+}
+.emoji.emoji-symbols-alphanum-circled_m::before {
+  content: "Ⓜ";
+}
+.emoji.emoji-symbols-alphanum-new_button::before {
+  content: "🆕";
+}
+.emoji.emoji-symbols-alphanum-ng_button::before {
+  content: "🆖";
+}
+.emoji.emoji-symbols-alphanum-o_button_blood_type_::before {
+  content: "🅾";
+}
+.emoji.emoji-symbols-alphanum-ok_button::before {
+  content: "🆗";
+}
+.emoji.emoji-symbols-alphanum-p_button::before {
+  content: "🅿";
+}
+.emoji.emoji-symbols-alphanum-sos_button::before {
+  content: "🆘";
+}
+.emoji.emoji-symbols-alphanum-up_button::before {
+  content: "🆙";
+}
+.emoji.emoji-symbols-alphanum-vs_button::before {
+  content: "🆚";
+}
+.emoji.emoji-symbols-alphanum-japanese_here_button::before {
+  content: "🈁";
+}
+.emoji.emoji-symbols-alphanum-japanese_service_charge_button::before {
+  content: "🈂";
+}
+.emoji.emoji-symbols-alphanum-japanese_monthly_amount_button::before {
+  content: "🈷";
+}
+.emoji.emoji-symbols-alphanum-japanese_not_free_of_charge_button::before {
+  content: "🈶";
+}
+.emoji.emoji-symbols-alphanum-japanese_reserved_button::before {
+  content: "🈯";
+}
+.emoji.emoji-symbols-alphanum-japanese_bargain_button::before {
+  content: "🉐";
+}
+.emoji.emoji-symbols-alphanum-japanese_discount_button::before {
+  content: "🈹";
+}
+.emoji.emoji-symbols-alphanum-japanese_free_of_charge_button::before {
+  content: "🈚";
+}
+.emoji.emoji-symbols-alphanum-japanese_prohibited_button::before {
+  content: "🈲";
+}
+.emoji.emoji-symbols-alphanum-japanese_acceptable_button::before {
+  content: "🉑";
+}
+.emoji.emoji-symbols-alphanum-japanese_application_button::before {
+  content: "🈸";
+}
+.emoji.emoji-symbols-alphanum-japanese_passing_grade_button::before {
+  content: "🈴";
+}
+.emoji.emoji-symbols-alphanum-japanese_vacancy_button::before {
+  content: "🈳";
+}
+.emoji.emoji-symbols-alphanum-japanese_congratulations_button::before {
+  content: "㊗";
+}
+.emoji.emoji-symbols-alphanum-japanese_secret_button::before {
+  content: "㊙";
+}
+.emoji.emoji-symbols-alphanum-japanese_open_for_business_button::before {
+  content: "🈺";
+}
+.emoji.emoji-symbols-alphanum-japanese_no_vacancy_button::before {
+  content: "🈵";
+}

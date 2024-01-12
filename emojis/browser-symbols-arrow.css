@@ -1,0 +1,63 @@
+.emoji.emoji-symbols-arrow-up_arrow::before {
+  content: "⬆";
+}
+.emoji.emoji-symbols-arrow-up_right_arrow::before {
+  content: "↗";
+}
+.emoji.emoji-symbols-arrow-right_arrow::before {
+  content: "➡";
+}
+.emoji.emoji-symbols-arrow-down_right_arrow::before {
+  content: "↘";
+}
+.emoji.emoji-symbols-arrow-down_arrow::before {
+  content: "⬇";
+}
+.emoji.emoji-symbols-arrow-down_left_arrow::before {
+  content: "↙";
+}
+.emoji.emoji-symbols-arrow-left_arrow::before {
+  content: "⬅";
+}
+.emoji.emoji-symbols-arrow-up_left_arrow::before {
+  content: "↖";
+}
+.emoji.emoji-symbols-arrow-up_down_arrow::before {
+  content: "↕";
+}
+.emoji.emoji-symbols-arrow-left_right_arrow::before {
+  content: "↔";
+}
+.emoji.emoji-symbols-arrow-right_arrow_curving_left::before {
+  content: "↩";
+}
+.emoji.emoji-symbols-arrow-left_arrow_curving_right::before {
+  content: "↪";
+}
+.emoji.emoji-symbols-arrow-right_arrow_curving_up::before {
+  content: "⤴";
+}
+.emoji.emoji-symbols-arrow-right_arrow_curving_down::before {
+  content: "⤵";
+}
+.emoji.emoji-symbols-arrow-clockwise_vertical_arrows::before {
+  content: "🔃";
+}
+.emoji.emoji-symbols-arrow-counterclockwise_arrows_button::before {
+  content: "🔄";
+}
+.emoji.emoji-symbols-arrow-back_arrow::before {
+  content: "🔙";
+}
+.emoji.emoji-symbols-arrow-end_arrow::before {
+  content: "🔚";
+}
+.emoji.emoji-symbols-arrow-on_arrow::before {
+  content: "🔛";
+}
+.emoji.emoji-symbols-arrow-soon_arrow::before {
+  content: "🔜";
+}
+.emoji.emoji-symbols-arrow-top_arrow::before {
+  content: "🔝";
+}

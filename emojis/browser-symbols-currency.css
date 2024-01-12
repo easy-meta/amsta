@@ -1,0 +1,6 @@
+.emoji.emoji-symbols-currency-currency_exchange::before {
+  content: "💱";
+}
+.emoji.emoji-symbols-currency-heavy_dollar_sign::before {
+  content: "💲";
+}

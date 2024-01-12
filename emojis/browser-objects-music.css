@@ -1,0 +1,27 @@
+.emoji.emoji-objects-music-musical_score::before {
+  content: "🎼";
+}
+.emoji.emoji-objects-music-musical_note::before {
+  content: "🎵";
+}
+.emoji.emoji-objects-music-musical_notes::before {
+  content: "🎶";
+}
+.emoji.emoji-objects-music-studio_microphone::before {
+  content: "🎙";
+}
+.emoji.emoji-objects-music-level_slider::before {
+  content: "🎚";
+}
+.emoji.emoji-objects-music-control_knobs::before {
+  content: "🎛";
+}
+.emoji.emoji-objects-music-microphone::before {
+  content: "🎤";
+}
+.emoji.emoji-objects-music-headphone::before {
+  content: "🎧";
+}
+.emoji.emoji-objects-music-radio::before {
+  content: "📻";
+}

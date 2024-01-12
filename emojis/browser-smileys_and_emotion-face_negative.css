@@ -1,0 +1,24 @@
+.emoji.emoji-smileys_and_emotion-face_negative-face_with_steam_from_nose::before {
+  content: "😤";
+}
+.emoji.emoji-smileys_and_emotion-face_negative-pouting_face::before {
+  content: "😡";
+}
+.emoji.emoji-smileys_and_emotion-face_negative-angry_face::before {
+  content: "😠";
+}
+.emoji.emoji-smileys_and_emotion-face_negative-face_with_symbols_on_mouth::before {
+  content: "🤬";
+}
+.emoji.emoji-smileys_and_emotion-face_negative-smiling_face_with_horns::before {
+  content: "😈";
+}
+.emoji.emoji-smileys_and_emotion-face_negative-angry_face_with_horns::before {
+  content: "👿";
+}
+.emoji.emoji-smileys_and_emotion-face_negative-skull::before {
+  content: "💀";
+}
+.emoji.emoji-smileys_and_emotion-face_negative-skull_and_crossbones::before {
+  content: "☠";
+}

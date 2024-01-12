@@ -1,0 +1,15 @@
+.emoji.emoji-activities-arts_and_crafts-performing_arts::before {
+  content: "🎭";
+}
+.emoji.emoji-activities-arts_and_crafts-framed_picture::before {
+  content: "🖼";
+}
+.emoji.emoji-activities-arts_and_crafts-artist_palette::before {
+  content: "🎨";
+}
+.emoji.emoji-activities-arts_and_crafts-thread::before {
+  content: "🧵";
+}
+.emoji.emoji-activities-arts_and_crafts-yarn::before {
+  content: "🧶";
+}

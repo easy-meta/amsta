@@ -1,0 +1,78 @@
+.emoji.emoji-people_and_body-person-baby::before {
+  content: "\1F476";
+}
+.emoji.emoji-people_and_body-person-child::before {
+  content: "\1F9D2";
+}
+.emoji.emoji-people_and_body-person-boy::before {
+  content: "\1F466";
+}
+.emoji.emoji-people_and_body-person-girl::before {
+  content: "\1F467";
+}
+.emoji.emoji-people_and_body-person-person::before {
+  content: "\1F9D1";
+}
+.emoji.emoji-people_and_body-person-person_blond_hair::before {
+  content: "\1F471";
+}
+.emoji.emoji-people_and_body-person-man::before {
+  content: "\1F468";
+}
+.emoji.emoji-people_and_body-person-man_beard::before {
+  content: "\1F9D4";
+}
+.emoji.emoji-people_and_body-person-man_red_hair::before {
+  content: "\1F468\200D\1F9B0";
+}
+.emoji.emoji-people_and_body-person-man_curly_hair::before {
+  content: "\1F468\200D\1F9B1";
+}
+.emoji.emoji-people_and_body-person-man_white_hair::before {
+  content: "\1F468\200D\1F9B3";
+}
+.emoji.emoji-people_and_body-person-man_bald::before {
+  content: "\1F468\200D\1F9B2";
+}
+.emoji.emoji-people_and_body-person-woman::before {
+  content: "\1F469";
+}
+.emoji.emoji-people_and_body-person-woman_red_hair::before {
+  content: "\1F469\200D\1F9B0";
+}
+.emoji.emoji-people_and_body-person-_person_red_hair::before {
+  content: "\1F9D1\200D\1F9B0";
+}
+.emoji.emoji-people_and_body-person-woman_curly_hair::before {
+  content: "\1F469\200D\1F9B1";
+}
+.emoji.emoji-people_and_body-person-_person_curly_hair::before {
+  content: "\1F9D1\200D\1F9B1";
+}
+.emoji.emoji-people_and_body-person-woman_white_hair::before {
+  content: "\1F469\200D\1F9B3";
+}
+.emoji.emoji-people_and_body-person-_person_white_hair::before {
+  content: "\1F9D1\200D\1F9B3";
+}
+.emoji.emoji-people_and_body-person-woman_bald::before {
+  content: "\1F469\200D\1F9B2";
+}
+.emoji.emoji-people_and_body-person-_person_bald::before {
+  content: "\1F9D1\200D\1F9B2";
+}
+.emoji.emoji-people_and_body-person-woman_blond_hair::before {
+  content: "\1F471\200D\2640\FE0F";
+}
+.emoji.emoji-people_and_body-person-man_blond_hair::before {
+  content: "\1F471\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person-older_person::before {
+  content: "\1F9D3";
+}
+.emoji.emoji-people_and_body-person-old_man::before {
+  content: "\1F474";
+}
+.emoji.emoji-people_and_body-person-old_woman::before {
+  content: "\1F475";
+}

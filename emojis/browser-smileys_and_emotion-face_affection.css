@@ -1,0 +1,24 @@
+.emoji.emoji-smileys_and_emotion-face_affection-smiling_face_with_hearts::before {
+  content: "🥰";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-smiling_face_with_heart_eyes::before {
+  content: "😍";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-star_struck::before {
+  content: "🤩";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-face_blowing_a_kiss::before {
+  content: "😘";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-kissing_face::before {
+  content: "😗";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-smiling_face::before {
+  content: "☺";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-kissing_face_with_closed_eyes::before {
+  content: "😚";
+}
+.emoji.emoji-smileys_and_emotion-face_affection-kissing_face_with_smiling_eyes::before {
+  content: "😙";
+}

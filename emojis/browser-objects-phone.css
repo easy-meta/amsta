@@ -1,0 +1,18 @@
+.emoji.emoji-objects-phone-mobile_phone::before {
+  content: "📱";
+}
+.emoji.emoji-objects-phone-mobile_phone_with_arrow::before {
+  content: "📲";
+}
+.emoji.emoji-objects-phone-telephone::before {
+  content: "☎";
+}
+.emoji.emoji-objects-phone-telephone_receiver::before {
+  content: "📞";
+}
+.emoji.emoji-objects-phone-pager::before {
+  content: "📟";
+}
+.emoji.emoji-objects-phone-fax_machine::before {
+  content: "📠";
+}

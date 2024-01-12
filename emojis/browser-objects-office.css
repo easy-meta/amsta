@@ -1,0 +1,69 @@
+.emoji.emoji-objects-office-briefcase::before {
+  content: "💼";
+}
+.emoji.emoji-objects-office-file_folder::before {
+  content: "📁";
+}
+.emoji.emoji-objects-office-open_file_folder::before {
+  content: "📂";
+}
+.emoji.emoji-objects-office-card_index_dividers::before {
+  content: "🗂";
+}
+.emoji.emoji-objects-office-calendar::before {
+  content: "📅";
+}
+.emoji.emoji-objects-office-tear_off_calendar::before {
+  content: "📆";
+}
+.emoji.emoji-objects-office-spiral_notepad::before {
+  content: "🗒";
+}
+.emoji.emoji-objects-office-spiral_calendar::before {
+  content: "🗓";
+}
+.emoji.emoji-objects-office-card_index::before {
+  content: "📇";
+}
+.emoji.emoji-objects-office-chart_increasing::before {
+  content: "📈";
+}
+.emoji.emoji-objects-office-chart_decreasing::before {
+  content: "📉";
+}
+.emoji.emoji-objects-office-bar_chart::before {
+  content: "📊";
+}
+.emoji.emoji-objects-office-clipboard::before {
+  content: "📋";
+}
+.emoji.emoji-objects-office-pushpin::before {
+  content: "📌";
+}
+.emoji.emoji-objects-office-round_pushpin::before {
+  content: "📍";
+}
+.emoji.emoji-objects-office-paperclip::before {
+  content: "📎";
+}
+.emoji.emoji-objects-office-linked_paperclips::before {
+  content: "🖇";
+}
+.emoji.emoji-objects-office-straight_ruler::before {
+  content: "📏";
+}
+.emoji.emoji-objects-office-triangular_ruler::before {
+  content: "📐";
+}
+.emoji.emoji-objects-office-scissors::before {
+  content: "✂";
+}
+.emoji.emoji-objects-office-card_file_box::before {
+  content: "🗃";
+}
+.emoji.emoji-objects-office-file_cabinet::before {
+  content: "🗄";
+}
+.emoji.emoji-objects-office-wastebasket::before {
+  content: "🗑";
+}

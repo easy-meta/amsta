@@ -1,0 +1,27 @@
+.emoji.emoji-travel_and_places-place_geographic-snow_capped_mountain::before {
+  content: "🏔";
+}
+.emoji.emoji-travel_and_places-place_geographic-mountain::before {
+  content: "⛰";
+}
+.emoji.emoji-travel_and_places-place_geographic-volcano::before {
+  content: "🌋";
+}
+.emoji.emoji-travel_and_places-place_geographic-mount_fuji::before {
+  content: "🗻";
+}
+.emoji.emoji-travel_and_places-place_geographic-camping::before {
+  content: "🏕";
+}
+.emoji.emoji-travel_and_places-place_geographic-beach_with_umbrella::before {
+  content: "🏖";
+}
+.emoji.emoji-travel_and_places-place_geographic-desert::before {
+  content: "🏜";
+}
+.emoji.emoji-travel_and_places-place_geographic-desert_island::before {
+  content: "🏝";
+}
+.emoji.emoji-travel_and_places-place_geographic-national_park::before {
+  content: "🏞";
+}

@@ -1,0 +1,18 @@
+.emoji.emoji-people_and_body-hand_single_finger-backhand_index_pointing_left::before {
+  content: "👈";
+}
+.emoji.emoji-people_and_body-hand_single_finger-backhand_index_pointing_right::before {
+  content: "👉";
+}
+.emoji.emoji-people_and_body-hand_single_finger-backhand_index_pointing_up::before {
+  content: "👆";
+}
+.emoji.emoji-people_and_body-hand_single_finger-middle_finger::before {
+  content: "🖕";
+}
+.emoji.emoji-people_and_body-hand_single_finger-backhand_index_pointing_down::before {
+  content: "👇";
+}
+.emoji.emoji-people_and_body-hand_single_finger-index_pointing_up::before {
+  content: "☝";
+}

@@ -1,0 +1,15 @@
+.emoji.emoji-people_and_body-person_resting-person_in_lotus_position::before {
+  content: "🧘";
+}
+.emoji.emoji-people_and_body-person_resting-man_in_lotus_position::before {
+  content: "🧘‍♂️";
+}
+.emoji.emoji-people_and_body-person_resting-woman_in_lotus_position::before {
+  content: "🧘‍♀️";
+}
+.emoji.emoji-people_and_body-person_resting-person_taking_bath::before {
+  content: "🛀";
+}
+.emoji.emoji-people_and_body-person_resting-person_in_bed::before {
+  content: "🛌";
+}

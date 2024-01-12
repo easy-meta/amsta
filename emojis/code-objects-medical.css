@@ -1,0 +1,15 @@
+.emoji.emoji-objects-medical-syringe::before {
+  content: "\1F489";
+}
+.emoji.emoji-objects-medical-drop_of_blood::before {
+  content: "\1FA78";
+}
+.emoji.emoji-objects-medical-pill::before {
+  content: "\1F48A";
+}
+.emoji.emoji-objects-medical-adhesive_bandage::before {
+  content: "\1FA79";
+}
+.emoji.emoji-objects-medical-stethoscope::before {
+  content: "\1FA7A";
+}

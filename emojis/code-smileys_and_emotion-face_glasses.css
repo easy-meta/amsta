@@ -1,0 +1,9 @@
+.emoji.emoji-smileys_and_emotion-face_glasses-smiling_face_with_sunglasses::before {
+  content: "\1F60E";
+}
+.emoji.emoji-smileys_and_emotion-face_glasses-nerd_face::before {
+  content: "\1F913";
+}
+.emoji.emoji-smileys_and_emotion-face_glasses-face_with_monocle::before {
+  content: "\1F9D0";
+}

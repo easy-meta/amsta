@@ -1,0 +1,27 @@
+.emoji.emoji-smileys_and_emotion-cat_face-grinning_cat::before {
+  content: "\1F63A";
+}
+.emoji.emoji-smileys_and_emotion-cat_face-grinning_cat_with_smiling_eyes::before {
+  content: "\1F638";
+}
+.emoji.emoji-smileys_and_emotion-cat_face-cat_with_tears_of_joy::before {
+  content: "\1F639";
+}
+.emoji.emoji-smileys_and_emotion-cat_face-smiling_cat_with_heart_eyes::before {
+  content: "\1F63B";
+}
+.emoji.emoji-smileys_and_emotion-cat_face-cat_with_wry_smile::before {
+  content: "\1F63C";
+}
+.emoji.emoji-smileys_and_emotion-cat_face-kissing_cat::before {
+  content: "\1F63D";
+}
+.emoji.emoji-smileys_and_emotion-cat_face-weary_cat::before {
+  content: "\1F640";
+}
+.emoji.emoji-smileys_and_emotion-cat_face-crying_cat::before {
+  content: "\1F63F";
+}
+.emoji.emoji-smileys_and_emotion-cat_face-pouting_cat::before {
+  content: "\1F63E";
+}

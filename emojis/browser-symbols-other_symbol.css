@@ -1,0 +1,63 @@
+.emoji.emoji-symbols-other_symbol-medical_symbol::before {
+  content: "⚕";
+}
+.emoji.emoji-symbols-other_symbol-recycling_symbol::before {
+  content: "♻";
+}
+.emoji.emoji-symbols-other_symbol-fleur_de_lis::before {
+  content: "⚜";
+}
+.emoji.emoji-symbols-other_symbol-trident_emblem::before {
+  content: "🔱";
+}
+.emoji.emoji-symbols-other_symbol-name_badge::before {
+  content: "📛";
+}
+.emoji.emoji-symbols-other_symbol-japanese_symbol_for_beginner::before {
+  content: "🔰";
+}
+.emoji.emoji-symbols-other_symbol-hollow_red_circle::before {
+  content: "⭕";
+}
+.emoji.emoji-symbols-other_symbol-check_mark_button::before {
+  content: "✅";
+}
+.emoji.emoji-symbols-other_symbol-check_box_with_check::before {
+  content: "☑";
+}
+.emoji.emoji-symbols-other_symbol-check_mark::before {
+  content: "✔";
+}
+.emoji.emoji-symbols-other_symbol-cross_mark::before {
+  content: "❌";
+}
+.emoji.emoji-symbols-other_symbol-cross_mark_button::before {
+  content: "❎";
+}
+.emoji.emoji-symbols-other_symbol-curly_loop::before {
+  content: "➰";
+}
+.emoji.emoji-symbols-other_symbol-double_curly_loop::before {
+  content: "➿";
+}
+.emoji.emoji-symbols-other_symbol-part_alternation_mark::before {
+  content: "〽";
+}
+.emoji.emoji-symbols-other_symbol-eight_spoked_asterisk::before {
+  content: "✳";
+}
+.emoji.emoji-symbols-other_symbol-eight_pointed_star::before {
+  content: "✴";
+}
+.emoji.emoji-symbols-other_symbol-sparkle::before {
+  content: "❇";
+}
+.emoji.emoji-symbols-other_symbol-copyright::before {
+  content: "©";
+}
+.emoji.emoji-symbols-other_symbol-registered::before {
+  content: "®";
+}
+.emoji.emoji-symbols-other_symbol-trade_mark::before {
+  content: "™";
+}

@@ -1,0 +1,24 @@
+.emoji.emoji-travel_and_places-transport_water-anchor::before {
+  content: "⚓";
+}
+.emoji.emoji-travel_and_places-transport_water-sailboat::before {
+  content: "⛵";
+}
+.emoji.emoji-travel_and_places-transport_water-canoe::before {
+  content: "🛶";
+}
+.emoji.emoji-travel_and_places-transport_water-speedboat::before {
+  content: "🚤";
+}
+.emoji.emoji-travel_and_places-transport_water-passenger_ship::before {
+  content: "🛳";
+}
+.emoji.emoji-travel_and_places-transport_water-ferry::before {
+  content: "⛴";
+}
+.emoji.emoji-travel_and_places-transport_water-motor_boat::before {
+  content: "🛥";
+}
+.emoji.emoji-travel_and_places-transport_water-ship::before {
+  content: "🚢";
+}

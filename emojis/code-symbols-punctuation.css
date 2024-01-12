@@ -1,0 +1,21 @@
+.emoji.emoji-symbols-punctuation-double_exclamation_mark::before {
+  content: "\203C";
+}
+.emoji.emoji-symbols-punctuation-exclamation_question_mark::before {
+  content: "\2049";
+}
+.emoji.emoji-symbols-punctuation-question_mark::before {
+  content: "\2753";
+}
+.emoji.emoji-symbols-punctuation-white_question_mark::before {
+  content: "\2754";
+}
+.emoji.emoji-symbols-punctuation-white_exclamation_mark::before {
+  content: "\2755";
+}
+.emoji.emoji-symbols-punctuation-exclamation_mark::before {
+  content: "\2757";
+}
+.emoji.emoji-symbols-punctuation-wavy_dash::before {
+  content: "\3030";
+}

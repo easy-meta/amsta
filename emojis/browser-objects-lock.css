@@ -1,0 +1,18 @@
+.emoji.emoji-objects-lock-locked::before {
+  content: "🔒";
+}
+.emoji.emoji-objects-lock-unlocked::before {
+  content: "🔓";
+}
+.emoji.emoji-objects-lock-locked_with_pen::before {
+  content: "🔏";
+}
+.emoji.emoji-objects-lock-locked_with_key::before {
+  content: "🔐";
+}
+.emoji.emoji-objects-lock-key::before {
+  content: "🔑";
+}
+.emoji.emoji-objects-lock-old_key::before {
+  content: "🗝";
+}

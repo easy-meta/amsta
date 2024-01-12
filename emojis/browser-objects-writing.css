@@ -1,0 +1,21 @@
+.emoji.emoji-objects-writing-pencil::before {
+  content: "✏";
+}
+.emoji.emoji-objects-writing-black_nib::before {
+  content: "✒";
+}
+.emoji.emoji-objects-writing-fountain_pen::before {
+  content: "🖋";
+}
+.emoji.emoji-objects-writing-pen::before {
+  content: "🖊";
+}
+.emoji.emoji-objects-writing-paintbrush::before {
+  content: "🖌";
+}
+.emoji.emoji-objects-writing-crayon::before {
+  content: "🖍";
+}
+.emoji.emoji-objects-writing-memo::before {
+  content: "📝";
+}

@@ -1,0 +1,72 @@
+.emoji.emoji-symbols-av_symbol-shuffle_tracks_button::before {
+  content: "🔀";
+}
+.emoji.emoji-symbols-av_symbol-repeat_button::before {
+  content: "🔁";
+}
+.emoji.emoji-symbols-av_symbol-repeat_single_button::before {
+  content: "🔂";
+}
+.emoji.emoji-symbols-av_symbol-play_button::before {
+  content: "▶";
+}
+.emoji.emoji-symbols-av_symbol-fast_forward_button::before {
+  content: "⏩";
+}
+.emoji.emoji-symbols-av_symbol-next_track_button::before {
+  content: "⏭";
+}
+.emoji.emoji-symbols-av_symbol-play_or_pause_button::before {
+  content: "⏯";
+}
+.emoji.emoji-symbols-av_symbol-reverse_button::before {
+  content: "◀";
+}
+.emoji.emoji-symbols-av_symbol-fast_reverse_button::before {
+  content: "⏪";
+}
+.emoji.emoji-symbols-av_symbol-last_track_button::before {
+  content: "⏮";
+}
+.emoji.emoji-symbols-av_symbol-upwards_button::before {
+  content: "🔼";
+}
+.emoji.emoji-symbols-av_symbol-fast_up_button::before {
+  content: "⏫";
+}
+.emoji.emoji-symbols-av_symbol-downwards_button::before {
+  content: "🔽";
+}
+.emoji.emoji-symbols-av_symbol-fast_down_button::before {
+  content: "⏬";
+}
+.emoji.emoji-symbols-av_symbol-pause_button::before {
+  content: "⏸";
+}
+.emoji.emoji-symbols-av_symbol-stop_button::before {
+  content: "⏹";
+}
+.emoji.emoji-symbols-av_symbol-record_button::before {
+  content: "⏺";
+}
+.emoji.emoji-symbols-av_symbol-eject_button::before {
+  content: "⏏";
+}
+.emoji.emoji-symbols-av_symbol-cinema::before {
+  content: "🎦";
+}
+.emoji.emoji-symbols-av_symbol-dim_button::before {
+  content: "🔅";
+}
+.emoji.emoji-symbols-av_symbol-bright_button::before {
+  content: "🔆";
+}
+.emoji.emoji-symbols-av_symbol-antenna_bars::before {
+  content: "📶";
+}
+.emoji.emoji-symbols-av_symbol-vibration_mode::before {
+  content: "📳";
+}
+.emoji.emoji-symbols-av_symbol-mobile_phone_off::before {
+  content: "📴";
+}

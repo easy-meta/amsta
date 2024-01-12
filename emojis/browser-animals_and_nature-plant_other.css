@@ -1,0 +1,36 @@
+.emoji.emoji-animals_and_nature-plant_other-seedling::before {
+  content: "🌱";
+}
+.emoji.emoji-animals_and_nature-plant_other-evergreen_tree::before {
+  content: "🌲";
+}
+.emoji.emoji-animals_and_nature-plant_other-deciduous_tree::before {
+  content: "🌳";
+}
+.emoji.emoji-animals_and_nature-plant_other-palm_tree::before {
+  content: "🌴";
+}
+.emoji.emoji-animals_and_nature-plant_other-cactus::before {
+  content: "🌵";
+}
+.emoji.emoji-animals_and_nature-plant_other-sheaf_of_rice::before {
+  content: "🌾";
+}
+.emoji.emoji-animals_and_nature-plant_other-herb::before {
+  content: "🌿";
+}
+.emoji.emoji-animals_and_nature-plant_other-shamrock::before {
+  content: "☘";
+}
+.emoji.emoji-animals_and_nature-plant_other-four_leaf_clover::before {
+  content: "🍀";
+}
+.emoji.emoji-animals_and_nature-plant_other-maple_leaf::before {
+  content: "🍁";
+}
+.emoji.emoji-animals_and_nature-plant_other-fallen_leaf::before {
+  content: "🍂";
+}
+.emoji.emoji-animals_and_nature-plant_other-leaf_fluttering_in_wind::before {
+  content: "🍃";
+}

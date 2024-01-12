@@ -1,0 +1,6 @@
+.emoji.emoji-symbols-gender-female_sign::before {
+  content: "♀";
+}
+.emoji.emoji-symbols-gender-male_sign::before {
+  content: "♂";
+}

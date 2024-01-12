@@ -1,0 +1,9 @@
+.emoji.emoji-people_and_body-hand_prop-writing_hand::before {
+  content: "\270D";
+}
+.emoji.emoji-people_and_body-hand_prop-nail_polish::before {
+  content: "\1F485";
+}
+.emoji.emoji-people_and_body-hand_prop-selfie::before {
+  content: "\1F933";
+}

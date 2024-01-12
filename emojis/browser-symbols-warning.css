@@ -1,0 +1,39 @@
+.emoji.emoji-symbols-warning-warning::before {
+  content: "⚠";
+}
+.emoji.emoji-symbols-warning-children_crossing::before {
+  content: "🚸";
+}
+.emoji.emoji-symbols-warning-no_entry::before {
+  content: "⛔";
+}
+.emoji.emoji-symbols-warning-prohibited::before {
+  content: "🚫";
+}
+.emoji.emoji-symbols-warning-no_bicycles::before {
+  content: "🚳";
+}
+.emoji.emoji-symbols-warning-no_smoking::before {
+  content: "🚭";
+}
+.emoji.emoji-symbols-warning-no_littering::before {
+  content: "🚯";
+}
+.emoji.emoji-symbols-warning-non_potable_water::before {
+  content: "🚱";
+}
+.emoji.emoji-symbols-warning-no_pedestrians::before {
+  content: "🚷";
+}
+.emoji.emoji-symbols-warning-no_mobile_phones::before {
+  content: "📵";
+}
+.emoji.emoji-symbols-warning-no_one_under_eighteen::before {
+  content: "🔞";
+}
+.emoji.emoji-symbols-warning-radioactive::before {
+  content: "☢";
+}
+.emoji.emoji-symbols-warning-biohazard::before {
+  content: "☣";
+}

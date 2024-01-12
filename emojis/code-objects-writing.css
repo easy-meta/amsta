@@ -1,0 +1,21 @@
+.emoji.emoji-objects-writing-pencil::before {
+  content: "\270F";
+}
+.emoji.emoji-objects-writing-black_nib::before {
+  content: "\2712";
+}
+.emoji.emoji-objects-writing-fountain_pen::before {
+  content: "\1F58B";
+}
+.emoji.emoji-objects-writing-pen::before {
+  content: "\1F58A";
+}
+.emoji.emoji-objects-writing-paintbrush::before {
+  content: "\1F58C";
+}
+.emoji.emoji-objects-writing-crayon::before {
+  content: "\1F58D";
+}
+.emoji.emoji-objects-writing-memo::before {
+  content: "\1F4DD";
+}

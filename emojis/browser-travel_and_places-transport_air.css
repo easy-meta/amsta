@@ -1,0 +1,39 @@
+.emoji.emoji-travel_and_places-transport_air-airplane::before {
+  content: "✈";
+}
+.emoji.emoji-travel_and_places-transport_air-small_airplane::before {
+  content: "🛩";
+}
+.emoji.emoji-travel_and_places-transport_air-airplane_departure::before {
+  content: "🛫";
+}
+.emoji.emoji-travel_and_places-transport_air-airplane_arrival::before {
+  content: "🛬";
+}
+.emoji.emoji-travel_and_places-transport_air-parachute::before {
+  content: "🪂";
+}
+.emoji.emoji-travel_and_places-transport_air-seat::before {
+  content: "💺";
+}
+.emoji.emoji-travel_and_places-transport_air-helicopter::before {
+  content: "🚁";
+}
+.emoji.emoji-travel_and_places-transport_air-suspension_railway::before {
+  content: "🚟";
+}
+.emoji.emoji-travel_and_places-transport_air-mountain_cableway::before {
+  content: "🚠";
+}
+.emoji.emoji-travel_and_places-transport_air-aerial_tramway::before {
+  content: "🚡";
+}
+.emoji.emoji-travel_and_places-transport_air-satellite::before {
+  content: "🛰";
+}
+.emoji.emoji-travel_and_places-transport_air-rocket::before {
+  content: "🚀";
+}
+.emoji.emoji-travel_and_places-transport_air-flying_saucer::before {
+  content: "🛸";
+}

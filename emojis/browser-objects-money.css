@@ -1,0 +1,27 @@
+.emoji.emoji-objects-money-money_bag::before {
+  content: "💰";
+}
+.emoji.emoji-objects-money-yen_banknote::before {
+  content: "💴";
+}
+.emoji.emoji-objects-money-dollar_banknote::before {
+  content: "💵";
+}
+.emoji.emoji-objects-money-euro_banknote::before {
+  content: "💶";
+}
+.emoji.emoji-objects-money-pound_banknote::before {
+  content: "💷";
+}
+.emoji.emoji-objects-money-money_with_wings::before {
+  content: "💸";
+}
+.emoji.emoji-objects-money-credit_card::before {
+  content: "💳";
+}
+.emoji.emoji-objects-money-receipt::before {
+  content: "🧾";
+}
+.emoji.emoji-objects-money-chart_increasing_with_yen::before {
+  content: "💹";
+}

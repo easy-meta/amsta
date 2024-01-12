@@ -1,0 +1,15 @@
+.emoji.emoji-symbols-math-multiply::before {
+  content: "✖";
+}
+.emoji.emoji-symbols-math-plus::before {
+  content: "➕";
+}
+.emoji.emoji-symbols-math-minus::before {
+  content: "➖";
+}
+.emoji.emoji-symbols-math-divide::before {
+  content: "➗";
+}
+.emoji.emoji-symbols-math-infinity::before {
+  content: "♾";
+}

@@ -1,0 +1,18 @@
+.emoji.emoji-activities-award_medal-military_medal::before {
+  content: "\1F396";
+}
+.emoji.emoji-activities-award_medal-trophy::before {
+  content: "\1F3C6";
+}
+.emoji.emoji-activities-award_medal-sports_medal::before {
+  content: "\1F3C5";
+}
+.emoji.emoji-activities-award_medal-1st_place_medal::before {
+  content: "\1F947";
+}
+.emoji.emoji-activities-award_medal-2nd_place_medal::before {
+  content: "\1F948";
+}
+.emoji.emoji-activities-award_medal-3rd_place_medal::before {
+  content: "\1F949";
+}

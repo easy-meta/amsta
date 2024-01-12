@@ -1,0 +1,9 @@
+.emoji.emoji-people_and_body-hand_prop-writing_hand::before {
+  content: "✍";
+}
+.emoji.emoji-people_and_body-hand_prop-nail_polish::before {
+  content: "💅";
+}
+.emoji.emoji-people_and_body-hand_prop-selfie::before {
+  content: "🤳";
+}

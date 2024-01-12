@@ -1,0 +1,63 @@
+.emoji.emoji-symbols-arrow-up_arrow::before {
+  content: "\2B06";
+}
+.emoji.emoji-symbols-arrow-up_right_arrow::before {
+  content: "\2197";
+}
+.emoji.emoji-symbols-arrow-right_arrow::before {
+  content: "\27A1";
+}
+.emoji.emoji-symbols-arrow-down_right_arrow::before {
+  content: "\2198";
+}
+.emoji.emoji-symbols-arrow-down_arrow::before {
+  content: "\2B07";
+}
+.emoji.emoji-symbols-arrow-down_left_arrow::before {
+  content: "\2199";
+}
+.emoji.emoji-symbols-arrow-left_arrow::before {
+  content: "\2B05";
+}
+.emoji.emoji-symbols-arrow-up_left_arrow::before {
+  content: "\2196";
+}
+.emoji.emoji-symbols-arrow-up_down_arrow::before {
+  content: "\2195";
+}
+.emoji.emoji-symbols-arrow-left_right_arrow::before {
+  content: "\2194";
+}
+.emoji.emoji-symbols-arrow-right_arrow_curving_left::before {
+  content: "\21A9";
+}
+.emoji.emoji-symbols-arrow-left_arrow_curving_right::before {
+  content: "\21AA";
+}
+.emoji.emoji-symbols-arrow-right_arrow_curving_up::before {
+  content: "\2934";
+}
+.emoji.emoji-symbols-arrow-right_arrow_curving_down::before {
+  content: "\2935";
+}
+.emoji.emoji-symbols-arrow-clockwise_vertical_arrows::before {
+  content: "\1F503";
+}
+.emoji.emoji-symbols-arrow-counterclockwise_arrows_button::before {
+  content: "\1F504";
+}
+.emoji.emoji-symbols-arrow-back_arrow::before {
+  content: "\1F519";
+}
+.emoji.emoji-symbols-arrow-end_arrow::before {
+  content: "\1F51A";
+}
+.emoji.emoji-symbols-arrow-on_arrow::before {
+  content: "\1F51B";
+}
+.emoji.emoji-symbols-arrow-soon_arrow::before {
+  content: "\1F51C";
+}
+.emoji.emoji-symbols-arrow-top_arrow::before {
+  content: "\1F51D";
+}

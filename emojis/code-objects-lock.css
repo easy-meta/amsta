@@ -1,0 +1,18 @@
+.emoji.emoji-objects-lock-locked::before {
+  content: "\1F512";
+}
+.emoji.emoji-objects-lock-unlocked::before {
+  content: "\1F513";
+}
+.emoji.emoji-objects-lock-locked_with_pen::before {
+  content: "\1F50F";
+}
+.emoji.emoji-objects-lock-locked_with_key::before {
+  content: "\1F510";
+}
+.emoji.emoji-objects-lock-key::before {
+  content: "\1F511";
+}
+.emoji.emoji-objects-lock-old_key::before {
+  content: "\1F5DD";
+}

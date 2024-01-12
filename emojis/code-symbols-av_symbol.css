@@ -1,0 +1,72 @@
+.emoji.emoji-symbols-av_symbol-shuffle_tracks_button::before {
+  content: "\1F500";
+}
+.emoji.emoji-symbols-av_symbol-repeat_button::before {
+  content: "\1F501";
+}
+.emoji.emoji-symbols-av_symbol-repeat_single_button::before {
+  content: "\1F502";
+}
+.emoji.emoji-symbols-av_symbol-play_button::before {
+  content: "\25B6";
+}
+.emoji.emoji-symbols-av_symbol-fast_forward_button::before {
+  content: "\23E9";
+}
+.emoji.emoji-symbols-av_symbol-next_track_button::before {
+  content: "\23ED";
+}
+.emoji.emoji-symbols-av_symbol-play_or_pause_button::before {
+  content: "\23EF";
+}
+.emoji.emoji-symbols-av_symbol-reverse_button::before {
+  content: "\25C0";
+}
+.emoji.emoji-symbols-av_symbol-fast_reverse_button::before {
+  content: "\23EA";
+}
+.emoji.emoji-symbols-av_symbol-last_track_button::before {
+  content: "\23EE";
+}
+.emoji.emoji-symbols-av_symbol-upwards_button::before {
+  content: "\1F53C";
+}
+.emoji.emoji-symbols-av_symbol-fast_up_button::before {
+  content: "\23EB";
+}
+.emoji.emoji-symbols-av_symbol-downwards_button::before {
+  content: "\1F53D";
+}
+.emoji.emoji-symbols-av_symbol-fast_down_button::before {
+  content: "\23EC";
+}
+.emoji.emoji-symbols-av_symbol-pause_button::before {
+  content: "\23F8";
+}
+.emoji.emoji-symbols-av_symbol-stop_button::before {
+  content: "\23F9";
+}
+.emoji.emoji-symbols-av_symbol-record_button::before {
+  content: "\23FA";
+}
+.emoji.emoji-symbols-av_symbol-eject_button::before {
+  content: "\23CF";
+}
+.emoji.emoji-symbols-av_symbol-cinema::before {
+  content: "\1F3A6";
+}
+.emoji.emoji-symbols-av_symbol-dim_button::before {
+  content: "\1F505";
+}
+.emoji.emoji-symbols-av_symbol-bright_button::before {
+  content: "\1F506";
+}
+.emoji.emoji-symbols-av_symbol-antenna_bars::before {
+  content: "\1F4F6";
+}
+.emoji.emoji-symbols-av_symbol-vibration_mode::before {
+  content: "\1F4F3";
+}
+.emoji.emoji-symbols-av_symbol-mobile_phone_off::before {
+  content: "\1F4F4";
+}

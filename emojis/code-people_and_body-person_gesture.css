@@ -1,0 +1,90 @@
+.emoji.emoji-people_and_body-person_gesture-person_frowning::before {
+  content: "\1F64D";
+}
+.emoji.emoji-people_and_body-person_gesture-man_frowning::before {
+  content: "\1F64D\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-woman_frowning::before {
+  content: "\1F64D\200D\2640\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-person_pouting::before {
+  content: "\1F64E";
+}
+.emoji.emoji-people_and_body-person_gesture-man_pouting::before {
+  content: "\1F64E\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-woman_pouting::before {
+  content: "\1F64E\200D\2640\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-person_gesturing_no::before {
+  content: "\1F645";
+}
+.emoji.emoji-people_and_body-person_gesture-man_gesturing_no::before {
+  content: "\1F645\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-woman_gesturing_no::before {
+  content: "\1F645\200D\2640\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-person_gesturing_ok::before {
+  content: "\1F646";
+}
+.emoji.emoji-people_and_body-person_gesture-man_gesturing_ok::before {
+  content: "\1F646\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-woman_gesturing_ok::before {
+  content: "\1F646\200D\2640\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-person_tipping_hand::before {
+  content: "\1F481";
+}
+.emoji.emoji-people_and_body-person_gesture-man_tipping_hand::before {
+  content: "\1F481\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-woman_tipping_hand::before {
+  content: "\1F481\200D\2640\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-person_raising_hand::before {
+  content: "\1F64B";
+}
+.emoji.emoji-people_and_body-person_gesture-man_raising_hand::before {
+  content: "\1F64B\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-woman_raising_hand::before {
+  content: "\1F64B\200D\2640\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-deaf_person::before {
+  content: "\1F9CF";
+}
+.emoji.emoji-people_and_body-person_gesture-deaf_man::before {
+  content: "\1F9CF\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-deaf_woman::before {
+  content: "\1F9CF\200D\2640\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-person_bowing::before {
+  content: "\1F647";
+}
+.emoji.emoji-people_and_body-person_gesture-man_bowing::before {
+  content: "\1F647\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-woman_bowing::before {
+  content: "\1F647\200D\2640\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-person_facepalming::before {
+  content: "\1F926";
+}
+.emoji.emoji-people_and_body-person_gesture-man_facepalming::before {
+  content: "\1F926\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-woman_facepalming::before {
+  content: "\1F926\200D\2640\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-person_shrugging::before {
+  content: "\1F937";
+}
+.emoji.emoji-people_and_body-person_gesture-man_shrugging::before {
+  content: "\1F937\200D\2642\FE0F";
+}
+.emoji.emoji-people_and_body-person_gesture-woman_shrugging::before {
+  content: "\1F937\200D\2640\FE0F";
+}

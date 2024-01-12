@@ -1,0 +1,27 @@
+.emoji.emoji-objects-sound-muted_speaker::before {
+  content: "🔇";
+}
+.emoji.emoji-objects-sound-speaker_low_volume::before {
+  content: "🔈";
+}
+.emoji.emoji-objects-sound-speaker_medium_volume::before {
+  content: "🔉";
+}
+.emoji.emoji-objects-sound-speaker_high_volume::before {
+  content: "🔊";
+}
+.emoji.emoji-objects-sound-loudspeaker::before {
+  content: "📢";
+}
+.emoji.emoji-objects-sound-megaphone::before {
+  content: "📣";
+}
+.emoji.emoji-objects-sound-postal_horn::before {
+  content: "📯";
+}
+.emoji.emoji-objects-sound-bell::before {
+  content: "🔔";
+}
+.emoji.emoji-objects-sound-bell_with_slash::before {
+  content: "🔕";
+}

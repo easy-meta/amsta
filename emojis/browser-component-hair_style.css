@@ -1,0 +1,12 @@
+.emoji.emoji-component-hair_style-red_hair::before {
+  content: "🦰";
+}
+.emoji.emoji-component-hair_style-curly_hair::before {
+  content: "🦱";
+}
+.emoji.emoji-component-hair_style-white_hair::before {
+  content: "🦳";
+}
+.emoji.emoji-component-hair_style-bald::before {
+  content: "🦲";
+}

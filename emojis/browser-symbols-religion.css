@@ -1,0 +1,36 @@
+.emoji.emoji-symbols-religion-place_of_worship::before {
+  content: "🛐";
+}
+.emoji.emoji-symbols-religion-atom_symbol::before {
+  content: "⚛";
+}
+.emoji.emoji-symbols-religion-om::before {
+  content: "🕉";
+}
+.emoji.emoji-symbols-religion-star_of_david::before {
+  content: "✡";
+}
+.emoji.emoji-symbols-religion-wheel_of_dharma::before {
+  content: "☸";
+}
+.emoji.emoji-symbols-religion-yin_yang::before {
+  content: "☯";
+}
+.emoji.emoji-symbols-religion-latin_cross::before {
+  content: "✝";
+}
+.emoji.emoji-symbols-religion-orthodox_cross::before {
+  content: "☦";
+}
+.emoji.emoji-symbols-religion-star_and_crescent::before {
+  content: "☪";
+}
+.emoji.emoji-symbols-religion-peace_symbol::before {
+  content: "☮";
+}
+.emoji.emoji-symbols-religion-menorah::before {
+  content: "🕎";
+}
+.emoji.emoji-symbols-religion-dotted_six_pointed_star::before {
+  content: "🔯";
+}

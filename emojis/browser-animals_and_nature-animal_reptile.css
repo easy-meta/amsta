@@ -1,0 +1,24 @@
+.emoji.emoji-animals_and_nature-animal_reptile-crocodile::before {
+  content: "🐊";
+}
+.emoji.emoji-animals_and_nature-animal_reptile-turtle::before {
+  content: "🐢";
+}
+.emoji.emoji-animals_and_nature-animal_reptile-lizard::before {
+  content: "🦎";
+}
+.emoji.emoji-animals_and_nature-animal_reptile-snake::before {
+  content: "🐍";
+}
+.emoji.emoji-animals_and_nature-animal_reptile-dragon_face::before {
+  content: "🐲";
+}
+.emoji.emoji-animals_and_nature-animal_reptile-dragon::before {
+  content: "🐉";
+}
+.emoji.emoji-animals_and_nature-animal_reptile-sauropod::before {
+  content: "🦕";
+}
+.emoji.emoji-animals_and_nature-animal_reptile-t_rex::before {
+  content: "🦖";
+}

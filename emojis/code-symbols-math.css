@@ -1,0 +1,15 @@
+.emoji.emoji-symbols-math-multiply::before {
+  content: "\2716";
+}
+.emoji.emoji-symbols-math-plus::before {
+  content: "\2795";
+}
+.emoji.emoji-symbols-math-minus::before {
+  content: "\2796";
+}
+.emoji.emoji-symbols-math-divide::before {
+  content: "\2797";
+}
+.emoji.emoji-symbols-math-infinity::before {
+  content: "\267E";
+}

@@ -1,0 +1,21 @@
+.emoji.emoji-objects-musical_instrument-saxophone::before {
+  content: "🎷";
+}
+.emoji.emoji-objects-musical_instrument-guitar::before {
+  content: "🎸";
+}
+.emoji.emoji-objects-musical_instrument-musical_keyboard::before {
+  content: "🎹";
+}
+.emoji.emoji-objects-musical_instrument-trumpet::before {
+  content: "🎺";
+}
+.emoji.emoji-objects-musical_instrument-violin::before {
+  content: "🎻";
+}
+.emoji.emoji-objects-musical_instrument-banjo::before {
+  content: "🪕";
+}
+.emoji.emoji-objects-musical_instrument-drum::before {
+  content: "🥁";
+}

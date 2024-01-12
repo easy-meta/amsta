@@ -1,0 +1,15 @@
+.emoji.emoji-food_and_drink-food_marine-crab::before {
+  content: "🦀";
+}
+.emoji.emoji-food_and_drink-food_marine-lobster::before {
+  content: "🦞";
+}
+.emoji.emoji-food_and_drink-food_marine-shrimp::before {
+  content: "🦐";
+}
+.emoji.emoji-food_and_drink-food_marine-squid::before {
+  content: "🦑";
+}
+.emoji.emoji-food_and_drink-food_marine-oyster::before {
+  content: "🦪";
+}

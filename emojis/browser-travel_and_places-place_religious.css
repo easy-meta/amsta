@@ -1,0 +1,18 @@
+.emoji.emoji-travel_and_places-place_religious-church::before {
+  content: "⛪";
+}
+.emoji.emoji-travel_and_places-place_religious-mosque::before {
+  content: "🕌";
+}
+.emoji.emoji-travel_and_places-place_religious-hindu_temple::before {
+  content: "🛕";
+}
+.emoji.emoji-travel_and_places-place_religious-synagogue::before {
+  content: "🕍";
+}
+.emoji.emoji-travel_and_places-place_religious-shinto_shrine::before {
+  content: "⛩";
+}
+.emoji.emoji-travel_and_places-place_religious-kaaba::before {
+  content: "🕋";
+}

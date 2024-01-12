@@ -1,0 +1,39 @@
+.emoji.emoji-objects-computer-battery::before {
+  content: "🔋";
+}
+.emoji.emoji-objects-computer-electric_plug::before {
+  content: "🔌";
+}
+.emoji.emoji-objects-computer-laptop::before {
+  content: "💻";
+}
+.emoji.emoji-objects-computer-desktop_computer::before {
+  content: "🖥";
+}
+.emoji.emoji-objects-computer-printer::before {
+  content: "🖨";
+}
+.emoji.emoji-objects-computer-keyboard::before {
+  content: "⌨";
+}
+.emoji.emoji-objects-computer-computer_mouse::before {
+  content: "🖱";
+}
+.emoji.emoji-objects-computer-trackball::before {
+  content: "🖲";
+}
+.emoji.emoji-objects-computer-computer_disk::before {
+  content: "💽";
+}
+.emoji.emoji-objects-computer-floppy_disk::before {
+  content: "💾";
+}
+.emoji.emoji-objects-computer-optical_disk::before {
+  content: "💿";
+}
+.emoji.emoji-objects-computer-dvd::before {
+  content: "📀";
+}
+.emoji.emoji-objects-computer-abacus::before {
+  content: "🧮";
+}
