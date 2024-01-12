@@ -1,0 +1,157 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji+Compat&display=swap');
+
+/*
+https://github.com/googlefonts/noto-emoji
+https://prinsfrank.nl/2021/01/25/Non-existing-flag-emojis-on-windows
+*/
+@font-face {
+  font-family: NotoColorEmoji;
+  unicode-range: U+1F1E6-1F1FF;
+  src: url("./NotoColorEmoji/NotoColorEmoji.woff2") format('woff2'),
+       url("./NotoColorEmoji/NotoColorEmoji.woff") format('woff'),
+       url("./NotoColorEmoji/NotoColorEmoji.ttf") format('truetype');
+}
+
+/*
+https://github.com/expo/vector-icons/tree/master/src/vendor/react-native-vector-icons/Fonts
+https://github.com/oblador/react-native-vector-icons/tree/v10.0.3/Fonts
+*/
+@font-face {
+  font-family: AntDesign;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/AntDesign.ttf") format("truetype");
+}
+@font-face {
+  font-family: Entypo;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/Entypo.ttf") format("truetype");
+}
+@font-face {
+  font-family: EvilIcons;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/EvilIcons.ttf") format("truetype");
+}
+@font-face {
+  font-family: Feather;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/Feather.ttf") format("truetype");
+}
+@font-face {
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/FontAwesome.ttf") format("truetype");
+}
+@font-face {
+  font-family: FontAwesome5_Brands;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/FontAwesome5_Brands.ttf") format("truetype");
+}
+@font-face {
+  font-family: FontAwesome5_Regular;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/FontAwesome5_Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: FontAwesome5_Solid;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/FontAwesome5_Solid.ttf") format("truetype");
+}
+@font-face {
+  font-family: Fontisto;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/Fontisto.ttf") format("truetype");
+}
+@font-face {
+  font-family: Foundation;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/Foundation.ttf") format("truetype");
+}
+@font-face {
+  font-family: Ionicons;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/Ionicons.ttf") format("truetype");
+}
+@font-face {
+  font-family: MaterialCommOldIcons;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/icons/MaterialCommOldIcons.ttf") format("truetype");
+}
+@font-face {
+  font-family: MaterialCommunityIcons;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/MaterialCommunityIcons.ttf") format("truetype");
+}
+@font-face {
+  font-family: MaterialIcons;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/MaterialIcons.ttf") format("truetype");
+}
+@font-face {
+  font-family: Octicons;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/Octicons.ttf") format("truetype");
+}
+@font-face {
+  font-family: SimpleLineIcons;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/SimpleLineIcons.ttf") format("truetype");
+}
+@font-face {
+  font-family: Zocial;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./rnvi/Fonts/Zocial.ttf") format("truetype");
+}
+ 
+@font-face {
+  font-family: "logo_Excalibur";
+  font-style: normal;
+  font-weight: 400;
+  src: url('./logo-fonts/excalibur.eot'); /* IE9 Compat Modes */
+  src: url('./logo-fonts/excalibur.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./logo-fonts/excalibur.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./logo-fonts/excalibur.woff') format('woff'), /* Pretty Modern Browsers */
+       url('./logo-fonts/excalibur.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('./logo-fonts/excalibur.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: "logo_Abrosia";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./logo-fonts/Abrosia.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: ChalkboardRegular;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/ChalkboardRegular.ttf"); /* IE9 Compat Modes */
+  src: url("./fonts/ChalkboardRegular.ttf") format("truetype"); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: chalkboardBold;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/chalkboardBold.ttf"); /* IE9 Compat Modes */
+  src: url("./fonts/chalkboardBold.ttf") format("truetype"); /* Legacy iOS */
+}
