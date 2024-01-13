@@ -1,11 +1,3 @@
-
-/* @import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji+Compat&display=swap'); */
-
-/*
-https://github.com/googlefonts/noto-emoji
-https://prinsfrank.nl/2021/01/25/Non-existing-flag-emojis-on-windows
-*/
 @font-face {
   font-family: NotoColorEmoji;
   unicode-range: U+1F1E6-1F1FF;
@@ -14,10 +6,6 @@ https://prinsfrank.nl/2021/01/25/Non-existing-flag-emojis-on-windows
        url("./NotoColorEmoji/NotoColorEmoji.ttf") format('truetype');
 }
 
-/*
-https://github.com/expo/vector-icons/tree/master/src/vendor/react-native-vector-icons/Fonts
-https://github.com/oblador/react-native-vector-icons/tree/v10.0.3/Fonts
-*/
 @font-face {
   font-family: AntDesign;
   font-style: normal;
